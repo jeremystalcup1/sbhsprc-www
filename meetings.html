@@ -66,19 +66,19 @@
         </div>
         <div class="col-md-6">
           <div class="page-header">
-            <h2>Pervious Meetings:</h2>
+            <h2>Previous Meetings:</h2>
           </div>
           <!--<p>[<a href="8-5.txt">August 5th</a>]</p>-->
         </div>
       </div>
       <div class="row">
         <div class="col-md-6">
-          <iframe src="latest.txt" height="100%" width="100%"></iframe>
+          <iframe height="100%" width="100%" data-recent-meeting></iframe>
         </div>
-        <div class="col-md-6">
-          <iframe src="meetings/8-5.txt" height="100%" width="100%"></iframe>
+        <div class="col-md-6" data-meetings>
+          <iframe height="100%" width="100%"></iframe>
           <ul class="pager">
-            <li class="previous disabled"><a href="#">← Older</a></li>
+            <li class="previous"><a href="#">← Older</a></li>
             <li class="next"><a href="#">Newer →</a></li>
           </ul>
         </div>
@@ -98,7 +98,8 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     <script src="js/rainbow.js"></script>
+    <script src="js/moment.js"></script>
     <script src="js/main.js"></script>
-  
+
 
 </body></html>
