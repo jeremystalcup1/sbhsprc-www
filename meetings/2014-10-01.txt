@@ -37,3 +37,8 @@ Robotics{
 	  making our motto whatever the Latinized version of 
 	  "Everything is in a box in a box, in a box" is.
 }
+
+Cyber Patriot{
+	-Teams assigned
+	-Training modules reviewed
+}
