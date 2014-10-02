@@ -1,0 +1,38 @@
+Game Design{
+   FETCH QUEST
+	-The Art design
+		=Attack designs
+		=Animations
+		=Enemy designs
+		=Backgrounds
+
+	-Map design
+		=Design	levels (Little dots)
+		=Working on how it correlates
+		=World Theme ideas
+	-Programming
+		=Player movements
+		=Variables
+	-Audio
+		=Different themes for levels
+		=Sound effects for enemies
+	-Level Design
+		=Need more time
+		=Creating level concepts
+   SENSORY OVERLOAD
+	-Created a google docs to organize the idea, plot and game mechanics
+	-Game mechanics 
+		=Senses that control what you can do
+                =Levers and buttons
+                =Enemies
+}
+
+Robotics{
+	-Efforts are underway to get two robots into 
+	  the Potamic Competition on the 25th.
+	-Much of the initial chassis work is now complete 
+	  on one bot, while the other requires a bit more work.
+	-We proposed making our mascot the platypus and
+	  making our motto whatever the Latinized version of 
+	  "Everything is in a box in a box, in a box" is.
+}
