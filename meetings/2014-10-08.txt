@@ -1,0 +1,29 @@
+Robotics{
+	*9964T finished their four bar lift
+	*9964S finished their six bar lift
+	*Both teams proved that four bar lifts and six bar lifts attain the same height
+	*9964S converted their six bar lift into an eight bar lift
+	*9964T started work on their scoring object manipulator
+	*No confirmation on the Potamic School Competition yet
+}
+
+Cyber Security{
+	Cyber Patriot: Team names assigned and points won on Ubuntu images.
+}
+
+Game Desgin{
+	Art Design
+		Concept art, and drew a lot of main villains
+
+	Map Design
+		Basic design of the world map
+	Programming
+		Instantiating
+		Making things move
+	Audio
+		Main Menu music
+	Level Design
+		Level themes created
+		Bosses
+		Mobs
+}
